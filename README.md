@@ -1,2 +1,13 @@
-# typescript-modulo1
+# typescript-modulo2
 Esse repositório é a continuação projeto de estudos do módulo 1 (introdução) de Typescript, da Alura.
+
+#
+
+## Get Started
+``` 
+cd project
+run npm install
+run npm run start
+```
+
+* <b>This project supports yarn</b>
