@@ -5,6 +5,7 @@ Esse repositório é a continuação projeto de estudos do módulo 1 (introduç�
 
 ## Get Started
 ``` 
+git clone https://github.com/Jonesseiji/typescript-modulo2.git
 cd project
 run npm install
 run npm run start
